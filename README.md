@@ -30,6 +30,9 @@ Some of the animals can be found in the Animal Kingdom faction, while the others
 | ***T-Rex*** | *Tribal 1* | Tyrannosaurus rex, whose name means “king of the tyrant lizards,” was built to rule. This dinosaur's muscular body stretched as long as 40 feet—about the size of a school bus—from its snout to the tip of its powerful tail. Weighing up to eight tons, T. rex stomped headfirst across its territory on two strong legs. |
 | ***Spinosaurus*** | *Pirate* | Spinosaurus was a large carnivorous dinosaur that was native to what is now northern Africa. These creatures were one of the largest carnivores to walk the earth, and were at least as large, if not larger, than Tyrannosaurus. In fact, some scientists estimate that these creatures could reach lengths of nearly 60 ft. or more!|
 | ***Turkey*** | *Forest* | Turkeys are dark overall with a bronze-green iridescence to most of their plumage. Their wings are dark, boldly barred with white. Their rump and tail feathers are broadly tipped with rusty or white. The bare skin of the head and neck varies from red to blue to gray.
+| ***Cobra*** | *Forest* | Cobras are venomous snakes related to taipans, coral snakes, and mambas, all members of the Elapidae family. Snakes in this family cannot fold their fangs down, as vipers can, so the fangs are generally shorter. They kill their prey by injecting venom through their fangs. The venom is a neurotoxin that stops the victim's breathing and heartbeat. A cobra only attacks a human if it feels threatened. As with any venomous snake, a bite from a cobra can be deadly if not treated properly. | 
+
+
 
 ## Maps
 
