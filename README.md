@@ -118,6 +118,8 @@ The new music for the mod was composed by *Voup*, a talented musician. You can v
 [**Calderaceum Battle**](https://www.youtube.com/watch?v=smuX3Qeofgs)
 
 ## Gallery
+![enter image descrption here] (https://www.google.com/url?sa=i&url=https%3A%2F%2Ftabs.mod.io%2Ft-rex26e9lDFQdSt3g0&psig=AOvVaw16oFHCBBKrUPza1VyZ3r6b&ust=1670344185158000&source=images&cd=vfe&ved=2ahUKEwia896P8-L7AhUMllMKHV_-DikQr4kDegUIARDLAQ)
+![enter image description here] (https://tabs.old.mod.io/jurassik-park-spinosaurus]
 
 ![enter image description here](https://cdn.discordapp.com/attachments/651812532746584085/1045261033658404904/image.png)
 
