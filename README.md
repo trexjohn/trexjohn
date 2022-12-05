@@ -27,6 +27,8 @@ Some of the animals can be found in the Animal Kingdom faction, while the others
 | ***NUCKELAVEE*** | *Weeping Copse* | The Devil of the Sea. Wielding a swordfish lochaber, it strides into battle, throwing its spear and calling it back. Its horse half can release a foul breath, sickening enemies to death. |
 | ***PLAGUE BEARER*** | *Calderaceum* | A long-necked dinosaur with a serious illness. As the battle progresses, it gets sicker and sicker, and can spread its illness with a bloody vomit. When it dies, its sickness revives it, and it hangs on for a little longer, using its last strength to gain the ability to leap. |
 | ***GREATER DRAGON*** | *Medieval 1* | An old, experienced dragon, given life once again. From ages past it rises, with flames hot enough to scorch even giants. When angered, it takes flight, and slams down on armies below. Only the strongest of warriors may defeat it, or perhaps even the hero. To unlock it, you must defeat it yourself. |
+| ***T-Rex*** | *Tribal 1* | Tyrannosaurus rex, whose name means “king of the tyrant lizards,” was built to rule. This dinosaur's muscular body stretched as long as 40 feet—about the size of a school bus—from its snout to the tip of its powerful tail. Weighing up to eight tons, T. rex stomped headfirst across its territory on two strong legs. |
+| ***Spinosaurus*** | *Pirate* | Spinosaurus was a large carnivorous dinosaur that was native to what is now northern Africa. These creatures were one of the largest carnivores to walk the earth, and were at least as large, if not larger, than Tyrannosaurus. In fact, some scientists estimate that these creatures could reach lengths of nearly 60 ft. or more!|
 
 ## Maps
 
