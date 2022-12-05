@@ -97,17 +97,10 @@ The mod's [**Github**](https://github.com/donkeyrat/AnimalKingdom) is now the on
 
 ## Credits
 
-This mod is made by Team Grad, a mod team that aims to improve the game by adding new units, new features, and more!
+This mod is made by Team trexjohn, a mod team that aims to improve the game by adding new units, new features, and more!
 
-__Kermate - Unit Designer/Modeler/SFX Designer/Owner__
 
-__BD - Coder/Unit Designer__
-
-__Harren Tonderen - Icon Artist__
-
-__Voup - Composer__
-
-__Myuu - [**Weeping Copse Music**](https://www.youtube.com/watch?v=kZRPA9LOJTg)__
+[**Weeping Copse Music**](https://www.youtube.com/watch?v=kZRPA9LOJTg)__
 
 ## Music
 
@@ -118,7 +111,9 @@ The new music for the mod was composed by *Voup*, a talented musician. You can v
 [**Calderaceum Battle**](https://www.youtube.com/watch?v=smuX3Qeofgs)
 
 ## Gallery
+
 ![enter image descrption here] (https://www.google.com/url?sa=i&url=https%3A%2F%2Ftabs.mod.io%2Ft-rex26e9lDFQdSt3g0&psig=AOvVaw16oFHCBBKrUPza1VyZ3r6b&ust=1670344185158000&source=images&cd=vfe&ved=2ahUKEwia896P8-L7AhUMllMKHV_-DikQr4kDegUIARDLAQ)
+
 ![enter image description here] (https://tabs.old.mod.io/jurassik-park-spinosaurus]
 
 ![enter image description here](https://cdn.discordapp.com/attachments/651812532746584085/1045261033658404904/image.png)
